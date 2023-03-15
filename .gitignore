@@ -1,4 +1,0 @@
-# ignore files with .log extensions
-*.log
-# ignore files in temporary folders
-temp/
